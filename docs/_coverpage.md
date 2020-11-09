@@ -6,6 +6,7 @@
 
 * 采用单片机支持IAP协议，自定义的下载协议
 
+[资料下载](https://pan.baidu.com/s/1cjGk-tc87lExX3Qi9HlXJg)
 [入门指南](software_installation/README.md)
 <!-- 背景图片 -->
 ![](/image/6.jpg)

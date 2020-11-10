@@ -8,7 +8,7 @@
 * 资料提取码：5188
 
 [购买开发板](https://item.taobao.com/item.htm?ft=t&id=618247688799)
-[资料下载](https://pan.baidu.com/s/1cjGk-tc87lExX3Qi9HlXJg)
-[入门指南](software_installation/README.md)
+[资料下载](https://pan.baidu.com/s/1nf6XIQ8PLSt9ilwjpBp5mg)
+[入门指南](introduction/software_installation/README.md)
 <!-- 背景图片 -->
-![](/image/6.jpg)
+![](image/6.jpg)
